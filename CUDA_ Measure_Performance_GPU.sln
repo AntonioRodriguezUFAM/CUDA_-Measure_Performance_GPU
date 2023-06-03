@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_ Measure_Performance_GPU", "CUDA_ Measure_Performance_GPU.vcxproj", "{70A4B27F-631D-417B-9317-5ED393B7E355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A4B27F-631D-417B-9317-5ED393B7E355}.Debug|x64.ActiveCfg = Debug|x64
+		{70A4B27F-631D-417B-9317-5ED393B7E355}.Debug|x64.Build.0 = Debug|x64
+		{70A4B27F-631D-417B-9317-5ED393B7E355}.Release|x64.ActiveCfg = Release|x64
+		{70A4B27F-631D-417B-9317-5ED393B7E355}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F871DAA0-47D9-48EF-A063-7FF0C4823208}
+	EndGlobalSection
+EndGlobal
